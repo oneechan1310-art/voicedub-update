@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Phiên bản đầu."
+  "notes": "Khớp giọng chính xác hơn; tự xử lý câu dịch quá dài (không chồng giọng) và báo trước khi render câu nào quá dài."
 }

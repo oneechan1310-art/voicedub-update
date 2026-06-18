@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.3 — Thêm tab 'Tạo giọng'... (mô tả ngắn)"
+  "notes": "Bản 1.1.4 — Thêm tab 'Check kịch bản' (đối chiếu số câu với project trước khi tạo voice). Gồm mọi cải tiến 1.1.3. Cài đè bản cũ."
 }

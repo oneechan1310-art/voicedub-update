@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.5 — Nhận voice đánh số kiểu bất kỳ (1, 2, … 300, không cần đệm 0, không cần hook/outro), tự sắp theo số. Gồm tab Check kịch bản (1.1.4). Cài đè bản cũ."
+  "notes": "Bản 1.1.6 — Câu voice dài hơn khe: báo MỘT LẦN tổng số câu cần thay (hiện 'Có N câu dài hơn khe trống' + danh sách đầy đủ). Gồm 1.1.5 (nhận voice đánh số 1,2,…) và 1.1.4 (tab Check kịch bản). Cài đè bản cũ."
 }

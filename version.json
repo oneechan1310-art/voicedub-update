@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.7 — Nâng cấp DỊCH KỊCH BẢN: dịch theo hướng văn học / bản địa hóa cho phim tài liệu du lịch (giữ điệp ngữ & cấu trúc song song, hình ảnh giác quan, nhịp điệu; câu chữ tự nhiên như người bản ngữ; số đọc thành chữ để voice phát âm tự nhiên). Áp cho cả tab Dịch khớp A1 lẫn dịch SRT. Cài đè bản cũ."
+  "notes": "Bản 1.1.8 — Máy nhân viên dịch được qua 9router của máy chủ trong mạng LAN: tab Dịch thêm ô 'API key 9router' (nhập 1 lần/máy, tự lưu — không nhúng vào app). Máy NV nhập 'Địa chỉ AI dịch' = http://<IP-máy-chủ>:20128/v1 và API key do quản lý cấp. Kèm bản dịch văn chương 1.1.7. Cài đè bản cũ."
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.6 — Câu voice dài hơn khe: báo MỘT LẦN tổng số câu cần thay (hiện 'Có N câu dài hơn khe trống' + danh sách đầy đủ). Gồm 1.1.5 (nhận voice đánh số 1,2,…) và 1.1.4 (tab Check kịch bản). Cài đè bản cũ."
+  "notes": "Bản 1.1.7 — Nâng cấp DỊCH KỊCH BẢN: dịch theo hướng văn học / bản địa hóa cho phim tài liệu du lịch (giữ điệp ngữ & cấu trúc song song, hình ảnh giác quan, nhịp điệu; câu chữ tự nhiên như người bản ngữ; số đọc thành chữ để voice phát âm tự nhiên). Áp cho cả tab Dịch khớp A1 lẫn dịch SRT. Cài đè bản cũ."
 }

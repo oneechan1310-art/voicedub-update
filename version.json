@@ -1,5 +1,5 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.10 — Dịch không còn dễ đứt vì TIMEOUT: tăng thời gian chờ API 120s → 240s và TỰ THỬ LẠI 3 lần khi nghẽn (timeout / 429 / 5xx). Hợp khi cả team dùng chung 1 tài khoản qua 9router lúc đông. Cài đè bản cũ."
+  "notes": "Bản 1.1.11 — Output 'Dịch khớp A1' tự DỌN cho TTS: bỏ dấu ngoặc kép bao quanh và số chương đầu dòng (vd '1.', '2)'), giữ nguyên nội dung + số/ngoặc giữa câu. Đưa thẳng vào ElevenLabs khỏi bị đọc nhầm dấu/đọc số chương. Cài đè bản cũ."
 }

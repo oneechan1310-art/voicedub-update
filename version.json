@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.9 — Dịch khớp A1 bền hơn với cách sắp xếp & đặt tên file: (1) tìm voice tiếng Anh trong cả THƯ MỤC CON (1-3 / 4-7 / hook…), khỏi gom 1 chỗ; (2) nhận diện chương ĐÚNG kể cả khi tên có tag tập chứa số (vd 'ir2t' không còn bị hiểu là Chương 2); (3) nhận hook viết tắt 'h'. Cài đè bản cũ."
+  "notes": "Bản 1.1.10 — Dịch không còn dễ đứt vì TIMEOUT: tăng thời gian chờ API 120s → 240s và TỰ THỬ LẠI 3 lần khi nghẽn (timeout / 429 / 5xx). Hợp khi cả team dùng chung 1 tài khoản qua 9router lúc đông. Cài đè bản cũ."
 }

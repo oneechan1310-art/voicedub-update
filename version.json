@@ -1,5 +1,5 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.11 — Output 'Dịch khớp A1' tự DỌN cho TTS: bỏ dấu ngoặc kép bao quanh và số chương đầu dòng (vd '1.', '2)'), giữ nguyên nội dung + số/ngoặc giữa câu. Đưa thẳng vào ElevenLabs khỏi bị đọc nhầm dấu/đọc số chương. Cài đè bản cũ."
+  "notes": "Bản 1.1.12 — Lỗi 'Dịch khớp A1' giờ CHẨN ĐOÁN rõ nguyên nhân từng phần thay vì 'thiếu audio' chung chung: phân biệt (1) không tìm thấy file, (2) nhầm file/file cụt, (3) file OK nhưng gióng không khớp = kịch bản lệch lời audio. Cài đè bản cũ."
 }

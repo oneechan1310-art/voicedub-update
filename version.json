@@ -1,5 +1,5 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.13 — 'Dịch khớp A1' bền hơn với project dựng lệch: (1) Phần A1 KHÔNG có trong kịch bản (mẩu 'Welcome'/intro chèn thêm, clip lạ) TỰ bóc lời từ audio rồi dịch — không hỏng cả job (có cảnh báo soi lại). (2) Tự chọn đúng track GIỌNG = track nhiều clip nhất (chạy đúng kể cả khi A1 là nhạc nền/track trống). (3) Kịch bản không có phần intro/outro riêng → tự coi phần ĐẦU là intro, phần CUỐI là outro để khớp A1; nhận outro viết tắt 'o'; cảnh báo nếu clip đầu track không đặt tên kiểu hook/intro. Cài đè bản cũ."
+  "notes": "Bản 1.1.14 — THÊM NGÔN NGỮ DỊCH: Tiếng Ý, Tiếng Ba Lan, Tiếng Nga, Tiếng Séc, Tiếng Thổ Nhĩ Kỳ. Đổi 'Tiếng Trung' sang PHỒN THỂ (Chinese Traditional — hợp thị trường Đài Loan/Hồng Kông/Singapore). Cài đè bản cũ."
 }

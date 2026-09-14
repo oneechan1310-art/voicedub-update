@@ -1,5 +1,5 @@
 {
-  "version": "1.1.14",
+  "version": "1.2.0",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.1.14 — THÊM NGÔN NGỮ DỊCH: Tiếng Ý, Tiếng Ba Lan, Tiếng Nga, Tiếng Séc, Tiếng Thổ Nhĩ Kỳ. Đổi 'Tiếng Trung' sang PHỒN THỂ (Chinese Traditional — hợp thị trường Đài Loan/Hồng Kông/Singapore). Cài đè bản cũ."
+  "notes": "Bản 1.2.0 — DỊCH XONG TỰ TẠO GIỌNG. Tab 'Dịch kịch bản' nay đọc luôn giọng cho từng câu, ra thư mục <tên file dịch>_voice (0001.mp3, 0002.mp3…) đưa thẳng sang tab Premiere được, không phải qua tool ngoài nữa. Bấm dòng job xong có nút 'Đưa sang tab Premiere' tự điền sẵn. Dropdown chỉ còn ngôn ngữ đã có giọng. Cài đè bản cũ."
 }

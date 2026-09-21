@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.1 — MỖI CHƯƠNG THÊM 1 FILE MP3 GỘP SẴN. …"
+  "notes": "Bản 1.2.2 — TẠO GIỌNG KHÔNG CÒN HỎNG GIỮA CHỪNG. Trước đây chỉ cần MỘT câu gặp lỗi tạm thời của máy chủ giọng là huỷ cả lượt, mất luôn phần đã đọc (cổng trả ~5% lượt lỗi, nên tập 192 câu gần như chắc chắn hỏng). Nay mỗi câu tự thử lại đến khi được; câu hỏng hẳn cũng không kéo các câu khác theo, và dòng trạng thái nói rõ 'câu N đang thử lại lần M' để biết là đang chạy chứ không treo. Key sai hoặc hết credit vẫn báo ngay như cũ. Cài đè bản cũ."
 }

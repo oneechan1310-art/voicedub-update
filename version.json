@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.2 — TẠO GIỌNG KHÔNG CÒN HỎNG GIỮA CHỪNG. Trước đây chỉ cần MỘT câu gặp lỗi tạm thời của máy chủ giọng là huỷ cả lượt, mất luôn phần đã đọc (cổng trả ~5% lượt lỗi, nên tập 192 câu gần như chắc chắn hỏng). Nay mỗi câu tự thử lại đến khi được; câu hỏng hẳn cũng không kéo các câu khác theo, và dòng trạng thái nói rõ 'câu N đang thử lại lần M' để biết là đang chạy chứ không treo. Key sai hoặc hết credit vẫn báo ngay như cũ. Cài đè bản cũ."
+  "notes": "Bản 1.2.3 — SỬA LỖI GIỌNG DỊCH ĐỌC LỆCH CÂU. (1) Khi editor đã cắt bớt một câu tiếng Anh khỏi video, bản cũ vẫn đem câu đó đi dịch nên từ chỗ đó trở đi giọng dịch đọc lệch sang câu khác (gặp ở tập Alaska: Hook và chương 1). Nay câu nào không có trên timeline thì bỏ, và báo 'N câu EN editor đã bỏ'. (2) Hết lỗi câu trước dính 1 từ của câu sau (kiểu '…ancestros. Cuando'). (3) Giọng đọc chuyển sang ElevenLabs v3, độ dài câu dịch đã đo lại theo giọng mới. Tập nào đã làm bằng bản cũ mà editor có cắt bớt câu thì nên chạy lại. Cài đè bản cũ."
 }

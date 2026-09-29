@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.3 — SỬA LỖI GIỌNG DỊCH ĐỌC LỆCH CÂU. (1) Khi editor đã cắt bớt một câu tiếng Anh khỏi video, bản cũ vẫn đem câu đó đi dịch nên từ chỗ đó trở đi giọng dịch đọc lệch sang câu khác (gặp ở tập Alaska: Hook và chương 1). Nay câu nào không có trên timeline thì bỏ, và báo 'N câu EN editor đã bỏ'. (2) Hết lỗi câu trước dính 1 từ của câu sau (kiểu '…ancestros. Cuando'). (3) Giọng đọc chuyển sang ElevenLabs v3, độ dài câu dịch đã đo lại theo giọng mới. Tập nào đã làm bằng bản cũ mà editor có cắt bớt câu thì nên chạy lại. Cài đè bản cũ."
+  "notes": "Bản 1.2.4 — BỚT CẢNH BÁO 'CÂU QUÁ DÀI' GIẢ. Bản trước báo cả những câu chỉ bị cắt vài mili-giây ở phần lặng cuối câu (không nghe ra), nên một tập tiếng Đức báo tới 20 câu mà thật ra chỉ 2 câu mất chữ. Nay chỉ báo khi câu bị cắt từ 0,15 giây trở lên — thấy cảnh báo là nên sửa câu đó. Giữ nguyên mọi sửa của 1.2.3 (hết đọc lệch câu khi editor cắt bớt câu tiếng Anh, giọng ElevenLabs v3). Cài đè bản cũ."
 }

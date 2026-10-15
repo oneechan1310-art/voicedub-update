@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.4 — BỚT CẢNH BÁO 'CÂU QUÁ DÀI' GIẢ. Bản trước báo cả những câu chỉ bị cắt vài mili-giây ở phần lặng cuối câu (không nghe ra), nên một tập tiếng Đức báo tới 20 câu mà thật ra chỉ 2 câu mất chữ. Nay chỉ báo khi câu bị cắt từ 0,15 giây trở lên — thấy cảnh báo là nên sửa câu đó. Giữ nguyên mọi sửa của 1.2.3 (hết đọc lệch câu khi editor cắt bớt câu tiếng Anh, giọng ElevenLabs v3). Cài đè bản cũ."
+  "notes": "Bản 1.2.5 — GIỌNG ĐỌC TỰ NHIÊN HƠN. (1) Đọc liền nhiều câu một lượt rồi mới cắt ra từng câu, nên giọng nối nhau mượt, hết kiểu câu nào cũng như mở đầu bài mới. (2) Giọng có nhấn nhá, ngắt nghỉ và biểu cảm vừa phải theo nội dung (file bản dịch .txt vẫn sạch; bản có đánh dấu biểu cảm ghi riêng file _bieucam.txt). (3) Đọc đúng tên riêng: tool tự tra tên chuẩn theo từng tiếng, tự nghe lại câu có tên, đọc sai thì tự đọc lại, và nhớ cho các tập sau — xem kết quả ở nút 'Xem tên riêng'. (4) Đổi model dịch sang cx/gpt-5.6-sol vì cx/gpt-5.5 đã bị khoá. Cài đè bản cũ."
 }

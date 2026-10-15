@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.5 — GIỌNG ĐỌC TỰ NHIÊN HƠN. (1) Đọc liền nhiều câu một lượt rồi mới cắt ra từng câu, nên giọng nối nhau mượt, hết kiểu câu nào cũng như mở đầu bài mới. (2) Giọng có nhấn nhá, ngắt nghỉ và biểu cảm vừa phải theo nội dung (file bản dịch .txt vẫn sạch; bản có đánh dấu biểu cảm ghi riêng file _bieucam.txt). (3) Đọc đúng tên riêng: tool tự tra tên chuẩn theo từng tiếng, tự nghe lại câu có tên, đọc sai thì tự đọc lại, và nhớ cho các tập sau — xem kết quả ở nút 'Xem tên riêng'. (4) Đổi model dịch sang cx/gpt-5.6-sol vì cx/gpt-5.5 đã bị khoá. Cài đè bản cũ."
+  "notes": "Bản 1.2.6 — SỬA LỖI CỦA BẢN 1.2.5. (1) Tab Dịch kịch bản báo 'GIÓNG (Whisper) không khớp' cho mọi phần: lỗi do thư viện mới trong bản 1.2.5, KHÔNG phải do kịch bản — đã sửa, kịch bản cũ chạy lại bình thường. (2) Đọc đúng tên riêng: kiểm đủ các tên giữ chữ nước ngoài (Xi'an, Chongqing, Seward…) ở tiếng Tây Ban Nha, Pháp, Bồ Đào Nha, Ba Lan. (3) Tên chuẩn tiếng Hàn/Trung không còn dính chữ 'thành phố' (시안시 → 시안, 重慶市 → 重慶). (4) AI dịch lỡ gộp/tách dòng thì tự hỏi lại, không dừng cả tập. Cài đè bản cũ."
 }

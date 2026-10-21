@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.8 — SỬA LỖI 'Phản hồi không phải JSON hợp lệ' ở tab Dịch khớp A1: AI dịch đủ câu nhưng trả thiếu ký tự đóng ở cuối, tool dừng cả tập. Nay tool tự vá, hỏng nặng hơn thì tự hỏi lại AI, không dừng tập nữa — tập nào đang lỗi này chỉ cần bấm Dịch khớp A1 lại. Gồm cả bản sửa của 1.2.7: hết lỗi 'Whisper LỖI … lỗi của TOOL / thư viện' khi thư mục Voice tiếng Anh có file kịch bản (.txt) hoặc file nén (.zip) trùng tên với audio. Cài đè bản cũ."
+  "notes": "Bản 1.2.9 — DỊCH KHỚP A1 NHANH HƠN: bỏ bước tự kiểm tên riêng (tra Wikipedia, nghe lại giọng, đọc lại câu đọc sai tên) vì nó làm mỗi tập chậm thêm từ 15 phút trở lên. Nay đọc giọng xong là gộp chương luôn, không ngồi chờ nghe lại. Lưu ý: tool không còn tự sửa cách đọc tên riêng — câu có địa danh, tên người nước ngoài nên nghe lại kiểm tay. Giữ nguyên mọi bản sửa của 1.2.8. Cài đè bản cũ."
 }

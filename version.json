@@ -1,5 +1,5 @@
 {
-  "version": "1.2.9",
+  "version": "1.2.10",
   "url": "https://github.com/oneechan1310-art/voicedub-update/releases/latest/download/VoiceDub-Setup.exe",
-  "notes": "Bản 1.2.9 — DỊCH KHỚP A1 NHANH HƠN: bỏ bước tự kiểm tên riêng (tra Wikipedia, nghe lại giọng, đọc lại câu đọc sai tên) vì nó làm mỗi tập chậm thêm từ 15 phút trở lên. Nay đọc giọng xong là gộp chương luôn, không ngồi chờ nghe lại. Lưu ý: tool không còn tự sửa cách đọc tên riêng — câu có địa danh, tên người nước ngoài nên nghe lại kiểm tay. Giữ nguyên mọi bản sửa của 1.2.8. Cài đè bản cũ."
+  "notes": "Bản 1.2.10 — TẠO GIỌNG NHANH HƠN, HẾT NGỒI CHỜ: máy chủ giọng chỉ nhận 10 lượt đọc cùng lúc cho mỗi khoá, lượt bị từ chối trước đây phải chờ tới cả phút mới gửi lại. Nay tool gửi lại sau vài giây, và cả app không bao giờ gửi quá 8 lượt đọc cùng lúc kể cả khi đang dịch 2 tập. Bấm Huỷ lúc đang chờ là dừng ngay. Giữ nguyên mọi thay đổi của 1.2.9 (bỏ bước tự kiểm tên riêng). Cài đè bản cũ."
 }
